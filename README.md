@@ -104,6 +104,4 @@ The repository contains the following key files and directories:
      ```
    - **Link**: [Data of Meta-EEGs](https://figshare.com/articles/dataset/Data_of_Meta-EEGs/30000775)
 
----
 
-**Feel free to contribute, raise issues, or suggest improvements!**
